@@ -4,7 +4,7 @@
 I'm a passionate Full Stack Developer and Computer Engineering student with a love for transforming complex challenges into elegant digital solutions. Currently pursuing my Bachelor's at Charusat University with a stellar academic record, I'm constantly exploring the intersection of technology and innovation.
 
 ### 🚀 Professional Snapshot
-- 💼 Frontend Developer at CareerQuest
+- 💼 Frontend Developer at PrepArc
 - 🎓 Computer Engineering Student (CPI: 9.13/10)
 - 🌱 Passionate about React.js, Node.js, and cutting-edge web technologies
 
@@ -26,7 +26,7 @@ I'm a passionate Full Stack Developer and Computer Engineering student with a lo
 
 ## 🌟 Key Projects
 
-### CareerQuest
+### PrepArc
 AI-driven platform for student career preparation, featuring intelligent quizzes and AI-powered interview tools.
 - Technologies: React.js, Node.js, AI, LangChain
 
